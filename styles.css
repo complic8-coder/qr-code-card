@@ -52,15 +52,3 @@ body {
     font-weight: 400;
     letter-spacing: .2px;
 }
-
-.attribution {
-    position: absolute;
-    bottom: 40px;
-    color: hsl(218, 44%, 22%);
-    font-size: 11px;
-    text-align: center;
-}
-
-.attribution a {
-    color: #2c7dfa;
-}
